@@ -6,7 +6,6 @@ class Shoe
     @brand = brand
     BRANDS.include?
   end
-  def unique_brands
     
 
   def cobble
